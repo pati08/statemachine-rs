@@ -1,5 +1,5 @@
 [package]
-name = "mytrait-derive"
+name = "statemachine-derive"
 version = "0.1.0"
 authors = ["imbolc <me@imbolc.name>"]
 edition = "2018"
