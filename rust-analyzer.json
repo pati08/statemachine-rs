@@ -1,0 +1,16 @@
+{
+    "rust-analyzer": {
+        "procMacro": {
+            "enable": true,
+            "ignored": {
+                "leptos_macro": [
+                    "server"
+                ]
+            }
+        },
+        "check": {
+            "command": "clippy"
+        }
+    },
+}
+
